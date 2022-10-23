@@ -54,3 +54,9 @@ The Manhattan area is a popular start location.
 Progressive heat map of repairs needed for each bike. This reflects the entire range of repairs needed while highlighting distribution acrros that range.
 
 ## Summary
+
+### Future visualization suggestions:
+
+1. A figure depticting popular bike riding times by starting location in NYC.
+
+2. A figure reflecting popular bike riding times by birthyear.
