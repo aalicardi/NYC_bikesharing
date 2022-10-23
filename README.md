@@ -7,7 +7,7 @@ NYC has a successful bike-sharing business that I and a friend Kate want to mode
 Create figures in Tableau to better understand bike-sharing data trends in NYC from August 2019.
 
 ## Results
-The story can be found [here](https://public.tableau.com/views/NYCRideSummary/NYCRideSummary?:language=en-US&:display_count=n&:origin=viz_share_link).
+The Tableau story can be found [here](https://public.tableau.com/views/NYCRideSummary/NYCRideSummary?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ### Checkout Times for Users
 ![image](https://user-images.githubusercontent.com/105028515/197366744-2e628a86-faca-432e-835f-f81d1b5155b2.png)
