@@ -1,8 +1,10 @@
 # NYC_bikesharing
 
 ## Background
+NYC has a successful bike-sharing business that I and a friend Kate want to model in Des Moines. Analyzing the bike-share data from NY will help us understand the business better and its feasability. 
 
-###Purpose
+### Purpose
+Create figures in Tableau to better understand bike-sharing data trends in NYC from August 2019.
 
 ## Results
 
